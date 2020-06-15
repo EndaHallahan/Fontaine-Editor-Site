@@ -15,7 +15,7 @@ Ultimately it's going to come down to your personal needs and preferences, but w
 
 ### I like Fontaine. How can I help support it?
 
-You can help support us by donating some of the money you saved back to us. Fontaine may be free software, but that doesn't mean it's free to make and maintain. There'll be more information about how you can help once we figure that mess out ourselves.
+You can help support us by donating some of the money you saved back to us. Fontaine may be free software, but that doesn't mean it's free to make and maintain. For more, see [Support Fontaine](/support).
 
 ## Open Source
 
