@@ -21,6 +21,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Dev Blog', position: 'left'},
+        {to: 'support', label: 'Support Fontaine', position: 'right'},
         {
           href: 'https://github.com/EndaHallahan/Fontaine-Editor',
           label: 'GitHub',
@@ -30,7 +31,13 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Enda Hallahan. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} RB Underwood. Built with Docusaurus.`,
+      links: [
+        {
+          title: 'Contact Us: contact@fontaineeditor.com',
+        },
+        // ... other links
+      ],
     },
   },
   presets: [
