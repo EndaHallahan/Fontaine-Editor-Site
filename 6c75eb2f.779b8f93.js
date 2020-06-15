@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{114:function(n){n.exports=JSON.parse('{"allTagsPath":"/Fontaine-Editor-Site/blog/tags","slug":"fontaine","name":"fontaine","count":1,"permalink":"/Fontaine-Editor-Site/blog/tags/fontaine"}')}}]);
